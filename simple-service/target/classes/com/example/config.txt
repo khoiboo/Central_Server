@@ -1,0 +1,21 @@
+[
+{"level":100,
+ "weight": 1.0
+},
+{"level":200,
+ "weight": 1.1
+},
+{"level":400,
+ "weight": 1.15
+},
+{"level":800,
+ "weight": 1.2
+},
+{"level":1600,
+ "weight": 1.25
+},
+{"level":2600,
+ "weight": 1.3
+}
+
+]
